@@ -1,16 +1,17 @@
 # NBS_cancer
 Analysis pipeline and code for "Pathogenic germline variations and cancer risk in pediatric patients"
 
-# Part I: fastq --> BAM --> SNV(VCF) + CNV
+## Part I: fastq --> BAM --> SNV(VCF) + CNV
 
 
-# Part II: SNV annotation
+## Part II: SNV annotation
 
 
-# Part III: CNV annotation
+## Part III: CNV annotation
 
 
-# Part IV: analysis code in the manuscript (can reproduce main figures and tables)
+
+## Part IV: analysis code in the manuscript (can reproduce main figures and tables)
 analysis_NBS.R
 
 ## License  
